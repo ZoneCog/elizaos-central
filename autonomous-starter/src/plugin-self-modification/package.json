@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@elizaos/core": "workspace:*",
-    "fast-xml-parser": "^4.3.2",
+    "fast-xml-parser": "^5.5.9",
     "jsonpath-plus": "^10.3.0",
     "zod": "^3.22.4"
   },
