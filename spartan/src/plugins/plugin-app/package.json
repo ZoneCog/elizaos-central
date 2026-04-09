@@ -6,7 +6,7 @@
     "types": "dist/index.d.ts",
     "dependencies": {
         "@elizaos/core": "^1.0.0-beta.34",
-        "nodemailer": "^7.0.3"
+        "nodemailer": "^8.0.5"
     },
     "devDependencies": {
         "@biomejs/biome": "1.9.4",
