@@ -64,7 +64,7 @@
     "moment": "^2.30.1",
     "multer": "2.0.1",
     "node-cron": "^3.0.3",
-    "nodemailer": "^7.0.3",
+    "nodemailer": "^8.0.5",
     "react": "^18.3.1",
     "react-bubble-ui": "^1.1.2",
     "react-dom": "^18.3.1",
@@ -93,7 +93,7 @@
     "tailwindcss": "^3.4.17",
     "tsup": "8.4.0",
     "typescript-eslint": "^8.18.2",
-    "vite": "^7.0.0"
+    "vite": "^8.0.9"
   },
   "gitHead": "646c632924826e2b75c2304a75ee56959fe4a460",
   "trustedDependencies": [
