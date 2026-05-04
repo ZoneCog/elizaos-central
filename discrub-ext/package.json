@@ -32,7 +32,7 @@
     "react-to-print": "^2.14.15",
     "react-window": "^1.8.10",
     "streamsaver": "^2.0.6",
-    "uuid": "^9.0.1"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@crxjs/vite-plugin": "^2.0.2",
@@ -49,6 +49,6 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
     "typescript": "^5.2.2",
-    "vite": "^7.0.0"
+    "vite": "^7.3.2"
   }
 }
